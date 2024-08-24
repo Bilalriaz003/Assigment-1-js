@@ -1,1 +1,1 @@
-# alerts-variables
+# alerts
